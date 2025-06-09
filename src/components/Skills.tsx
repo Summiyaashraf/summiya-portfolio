@@ -1,5 +1,4 @@
 import {
-  FaReact,
   FaFigma,
   FaNodeJs,
   FaPython,
