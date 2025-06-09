@@ -14,8 +14,9 @@ export function Contact() {
          Get in touch
         </h2>
         <p className="mt-3 text-muted-foreground">
-          Have a project or just want to connect? I'd love to hear from you!
-        </p>
+  Have a project or just want to connect? I&apos;d love to hear from you!
+</p>
+
       </div>
 
       <div className="grid md:grid-cols-2 gap-12 items-start">
